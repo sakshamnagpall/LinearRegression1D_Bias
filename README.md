@@ -26,7 +26,7 @@ This project introduces a **context-aware bias**:
 y = wx + b(x)
 ```
 
-where the bias itself is **learned as a smooth function of input**.
+where bias itself is **learned as a smooth function of input**.
 
 ---
 
