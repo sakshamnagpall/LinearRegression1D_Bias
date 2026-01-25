@@ -32,7 +32,7 @@ where bias itself is **learned as a smooth function of input**.
 
 ## 🧠 Core Idea
 
-* Keep the **linear slope (w)** global and interpretable
+* Keep the **linear slope (w)** global and totally interpretable
 * Let the **bias evolve with input context**
 * Preserve simplicity while capturing non-linear offsets
 
