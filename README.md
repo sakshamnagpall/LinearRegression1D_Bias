@@ -20,7 +20,7 @@ This assumption breaks down in real-world systems where:
 * offsets change with input context
 * asymmetric behavior appears across domains
 
-This project introduces **context-aware bias**:
+This project introduces the **context-aware bias**:
 
 ```
 y = wx + b(x)
