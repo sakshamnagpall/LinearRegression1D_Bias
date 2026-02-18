@@ -8,9 +8,9 @@
 
 Classical linear regression assumes:
 
-``` just there
+``` 
 y = wx + b
-``` to find
+``` 
 
 where the **bias (b)** is a constant scalar.
 
